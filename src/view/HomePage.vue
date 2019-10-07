@@ -29,7 +29,7 @@
         </div>
         <div class="col-xs-12 col-sm-12 col-md-6">
           <h2 class="bigData-title">
-            大数据管理系统
+            某某管理系统
             <small>/ Big Data Management System</small>
           </h2>
           <p>当今最领先的响应式自助建站平台。无论您是普通互联网用户，还是专业网站制作人员，都能使用起飞页设计出最具专业水准的网站。想创建一个简单的单页式站点，还是一个专业的公司网站，亦或是一个别具一格的博客？起飞页可以满足您的所有需求。</p>
@@ -143,27 +143,27 @@ export default {
     return {
       swiperList: [
         {
-          img: require("@/assets/img/banner1.png"),
+          img: require("@/assets/img/contact_us_bg.jpg"),
           path: "",
-          title: '您身边的IT专家1',
+          title: '中盛软件技术有限公司',
           content: '宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介',
         },
         {
           img: require("@/assets/img/banner2.jpg"),
           path: "",
-          title: '您身边的IT专家2',
+          title: '中盛软件技术有限公司',
           content: '宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介',
         },
         {
-          img: require("@/assets/img/banner1.png"),
+          img: require("@/assets/img/contact_us_bg.jpg"),
           path: "",
-          title: '您身边的IT专家3',
+          title: '中盛软件技术有限公司',
           content: '宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介',
         },
         {
           img: require("@/assets/img/banner2.jpg"),
           path: "",
-          title: '您身边的IT专家4',
+          title: '中盛软件技术有限公司',
           content: '宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介',
         }
       ],

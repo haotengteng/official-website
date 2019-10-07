@@ -24,10 +24,10 @@ export default {
             softwareList: [
                 {
                     path: '/software/smartTown',
-                    name: '智能小镇管理系统'
+                    name: '某某管理系统'
                 },{
                     path: '/software/bigData',
-                    name: '大数据管理系统'
+                    name: '某某管理系统'
                 }
             ]
         }

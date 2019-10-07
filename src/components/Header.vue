@@ -1,4 +1,4 @@
-<template>
+  <template>
   <!-- 头部整体盒子 -->
   <div id="header" class="container-fuild">
     <!-- 头部顶部 -->
@@ -6,7 +6,7 @@
       <div class="container">
         <div class="server pull-left">
           <span class="glyphicon glyphicon-earphone"></span>888-888-888
-          <span class="glyphicon glyphicon-envelope"></span>liyunkun_11@163.com
+          <span class="glyphicon glyphicon-envelope"></span>haot_mail@163.com
           <span class="glyphicon glyphicon-time"></span>7x24小时为您服务
         </div>
         <div class="shejiao pull-right">
@@ -19,7 +19,7 @@
     <div class="header-nav container hidden-xs">
       <!-- 导航logo -->
       <div class="header-nav-logo">
-        <img src="@/assets/img/logo_black.png">
+        <img src="@/assets/img/logo.png">
       </div>
       <!-- 导航内容 -->
       <ul class="header-nav-wrapper">
@@ -45,7 +45,7 @@
     <!-- 手机导航 -->
     <div class="header-nav-m container-fuild visible-xs">
       <div class="header-nav-m-logo">
-        <img class="center-block" src="@/assets/img/logo_black.png" alt="logo">
+        <img class="center-block" src="@/assets/img/logo.png" alt="logo">
       </div>
       <!-- 导航栏 -->
       <div class="header-nav-m-menu text-center">
@@ -97,11 +97,11 @@ export default {
           path: "/software",
           children: [
             {
-              name: "智能小镇管理系统",
+              name: "某某管理系统",
               path: "/software/smartTown"
             },
             {
-              name: "大数据管理系统",
+              name: "某某管理系统",
               path: "/software/bigData"
             }
           ]
@@ -121,11 +121,11 @@ export default {
           path: "/companyintroduction",
           children: []
         },
-        {
-          name: "工作机会",
-          path: "/jobchance",
-          children: []
-        },
+        // {
+        //   name: "工作机会",
+        //   path: "/jobchance",
+        //   children: []
+        // },
         {
           name: "联系我们",
           path: "/contactus",
@@ -181,7 +181,7 @@ export default {
 /* 导航栏logo图片 */
 #header .header-nav .header-nav-logo img {
   width: 95px;
-  height: 45px;
+  height: 75px;
   position: absolute;
   top: 0;
   left: 0;

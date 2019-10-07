@@ -1,19 +1,19 @@
 <template>
   <div id="footer" class="container-fluid">
-    <div class="logo">
-      <img src="@/assets/img/logo_white.png" alt="logo图">
-    </div>
-    <p class="title">公司企业网站模板</p>
+    <!--<div class="logo">-->
+      <!--<img src="@/assets/img/logo.png" alt="logo图">-->
+    <!--</div>-->
+    <p class="title">中盛软件技术有限公司</p>
     <p class="address_tel_fax">
       <span>地址：公司地址公司地址公司地址公司地址</span>
       <span>Tel：888-888-888</span>
       <span>Fax：8888-88888888</span>
     </p>
     <p class="email_wx">
-      <span>邮箱：liyunkun_11@163.com</span>
-      <span>公司微信号：ilyk_gg</span>
+      <span>邮箱：haot_mail@163.com</span>
+      <span>公司微信号：lalalalala</span>
     </p>
-    <p class="copy">Copyright &copy; 2018 - 2019 公司名称公司名称</p>
+    <p class="copy">Copyright &copy; 2019 - 2020 中盛软件技术有限公司</p>
   </div>
 </template>
 <script>
@@ -40,7 +40,7 @@ export default {
 }
 .title {
   font-size: 25px;
-  margin-bottom: 20px;
+  margin: 50px auto 20px;
 }
 .address_tel_fax {
   color: #d3d3d3;

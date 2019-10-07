@@ -55,7 +55,7 @@ export default {
   },
   mounted() {
     var map = new BMap.Map("map"); // 创建地图实例
-    var point = new BMap.Point(116.301841,40.156506); // 创建点坐标
+    var point = new BMap.Point(121.55668,29.811119); // 创建点坐标
     map.centerAndZoom(point, 18); // 初始化地图，设置中心点坐标和地图级别
     map.enableScrollWheelZoom(true); //开启鼠标滚轮缩放
     var marker = new BMap.Marker(point); // 创建标注
@@ -63,10 +63,10 @@ export default {
     var opts = {
       width: 50, // 信息窗口宽度
       height: 10, // 信息窗口高度
-      title: "黄元公寓" // 信息窗口标题
+      title: "中盛软件技术有限公司" // 信息窗口标题
     };
     var infoWindow = new BMap.InfoWindow(
-      "我的家",
+      "地址：xx街区xx大厦888号",
       opts
     ); // 创建信息窗口对象
     map.openInfoWindow(infoWindow, map.getCenter()); // 打开信息窗口

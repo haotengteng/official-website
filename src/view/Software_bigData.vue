@@ -1,6 +1,6 @@
 <template>
     <div id="Software">
-        大数据管理系统
+        某某管理系统
     </div>
 </template>
 <script>
