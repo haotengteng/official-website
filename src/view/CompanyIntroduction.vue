@@ -28,7 +28,7 @@
             <div class="col-xs-12 col-sm-12 col-md-6">
               <h3 style="display: inline-block">郝腾腾</h3> &nbsp;  <p style="color:#b2b2b2;display: inline-block">技术总监</p>
               <p class=".text-justify">从事多年软件开发，经验丰富，曾担任泰然集团金融科技部后端开发组组长，熟悉金融领域的软件开发，擅长Java及其周边技术，对elasticSearch有深入研究，深入了解mysql数据库存储及其事务机制，擅长对大型项目的任务拆分和项目进度的整体把控。</p>
-              <p class=".text-justify">曾开发过大型互联网金融系统，企业管理系统，商城类和通信类软件。参与设计过企业内部分布式框架的开发，帮助多个企业后端系统实现由单包项目到分布式项目的系统升级。</p>
+              <p class=".text-justify">曾开发过大型互联网金融系统，企业crm,oa系统，商城类和通信类软件。参与设计过企业内部分布式框架的开发，帮助多个企业后端系统实现由单包项目到分布式项目的系统升级。</p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-6 wow zoomIn">
               <img class="img-responsive center-block photo-size" src="@/assets/img/photo_nan.jpg">
@@ -38,8 +38,7 @@
           <div class="row CompanyIntroduction-container">
             <div class="col-xs-12 col-sm-12 col-md-6">
               <h3 style="display: inline-block">徐进言</h3> &nbsp;  <p style="color:#b2b2b2;display: inline-block">开发组长</p>
-              <p class=".text-justify">毕业于中国地质大学，曾担任网易考拉服务器开发组长，熟悉电商领域的软件开发，对高并发的系统设计有丰富的经验，深入了解rabbitMq等消息中间件，擅长各种复杂业务的系统设计，对复杂系统的任务拆解经验丰富</p>
-              <p class=".text-justify">熟悉各种业界前沿技术，时刻保持对新技术的追求，充分发挥各种新技术对系统的性能提升</p>
+              <p class=".text-justify">毕业于中国地质大学，曾担任网易考拉服务器开发组长，熟悉电商领域的软件开发，对高并发的系统设计有丰富的经验，深入了解rabbitMq等消息中间件，擅长各种复杂业务的系统设计，对复杂系统的任务拆解经验丰富</p><p class=".text-justify">熟悉各种业界前沿技术，时刻保持对新技术的追求，充分发挥各种新技术对系统的性能提升</p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-6 wow zoomIn">
               <img class="img-responsive center-block photo-size" src="@/assets/img/photo_nan.jpg">
