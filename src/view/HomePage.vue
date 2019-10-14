@@ -29,12 +29,15 @@
         </div>
         <div class="col-xs-12 col-sm-12 col-md-6">
           <h2 class="bigData-title">
-            某某管理系统
-            <small>/ Big Data Management System</small>
+            中盛软件
+            <small>/ ZhongSheng Software</small>
           </h2>
-          <p>当今最领先的响应式自助建站平台。无论您是普通互联网用户，还是专业网站制作人员，都能使用起飞页设计出最具专业水准的网站。想创建一个简单的单页式站点，还是一个专业的公司网站，亦或是一个别具一格的博客？起飞页可以满足您的所有需求。</p>
-          <p>我们的流线式网页布局设计方案和可视化图文内容编辑模式让网站制作和维护成为一件轻松惬意的事。无论您是普通互联网用户，还是专业网站制作人员。</p>
-          <h2 class="bigData-device">PC/PAD/Phone &nbsp; 全设备支持</h2>
+          <p>我们是一支有担当的团队，成员均拥有多年的软件开发技术背景，多名来自国内大型公司的技术骨干。
+            我们是一支专注的团队。我们坚信，我们的成绩源自客户的认可。
+            我们有一个共同的梦想：做一家有价值的互联网软件开发企业，为客户提供可信赖的软件开发服务。</p>
+          <p>我们正在服务Intel、海尔、上海通用等世界500强企业,
+            用服务大型企业的经历淬炼团队，使团队更加成熟、稳定、高效的同时，拥有持续创新的眼界和头脑，让您的所得超越所想。</p>
+          <h2 class="bigData-device">专业 · 负责 · 优质</h2>
           <a href="#" class="btn btn-lg btn-block btn-info">联系我们</a>
         </div>
       </div>
@@ -146,25 +149,25 @@ export default {
           img: require("@/assets/img/contact_us_bg.jpg"),
           path: "",
           title: '中盛软件技术有限公司',
-          content: '宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介',
+          content: '真诚服务，客户第一，品质优秀，认真负责',
         },
         {
           img: require("@/assets/img/banner2.jpg"),
           path: "",
           title: '中盛软件技术有限公司',
-          content: '宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介',
+          content: '真诚服务，客户第一，品质优秀，认真负责',
         },
         {
           img: require("@/assets/img/contact_us_bg.jpg"),
           path: "",
           title: '中盛软件技术有限公司',
-          content: '宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介',
+          content: '真诚服务，客户第一，品质优秀，认真负责',
         },
         {
           img: require("@/assets/img/banner2.jpg"),
           path: "",
           title: '中盛软件技术有限公司',
-          content: '宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介宣传简介',
+          content: '真诚服务，客户第一，品质优秀，认真负责',
         }
       ],
       customerList: [

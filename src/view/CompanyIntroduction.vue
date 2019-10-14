@@ -47,7 +47,7 @@
           </div>
           <div class="row CompanyIntroduction-container">
             <div class="col-xs-12 col-sm-12 col-md-6">
-              <h3 style="display: inline-block">胡艳</h3> &nbsp;  <p style="color:#b2b2b2;display: inline-block">开发组长</p>
+              <h3 style="display: inline-block">胡艳</h3> &nbsp;  <p style="color:#b2b2b2;display: inline-block">大前端组长</p>
               <p class=".text-justify">曾担任去哪儿网大前端项目经理，熟悉项目需求梳理，擅长将复杂业务流程化，业务技能高，沟通技巧熟练，能帮助团队从项目开始阶段迅速进入开发；</p>
               <p class=".text-justify">擅长对网站的页面布局设计，站在用户的角度对网站的交互进行深入的改进，追求网站易用程度和美观的极致</p>
             </div>
