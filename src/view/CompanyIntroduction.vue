@@ -14,15 +14,15 @@
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-6">
                     <h3>中盛软件技术有限公司</h3>
-                    <p class=".text-justify">中盛软件技术有限公司, 是一家以高科技创意为核心的技术服务公司, 聚集了众多对软件开发和界面设计有独特创意的高端人才, 致力于为企业提供软件开发, 网站建设, 网页设计, IT外包, 手机应用开发, 互联网营销, 微信平台开发等解决方案。</p>
+                    <p class=".text-justify">中盛软件技术有限公司, 是一家以高科技创意为核心的技术服务公司, 聚集了众多对软件开发和界面设计有独特创意的高端人才, 致力于为企业提供软件开发, 网站建设, 网页设计, IT外包, 手机应用开发, 互联网营销等解决方案。</p>
                     <p class=".text-justify">我们的客户包括集团上市公司, 酒店, IT科技, 教育, 服装, 贸易, 外贸, 时尚, 生物, 工业, 制造等众多行业, 并树立了良好的口碑, 积累了丰富的经验和成功案例. 我们提供权威专业的互联网品牌策划, 并实施高标准的设计方案, 创造真正意义上的品牌网站, 为互联网品牌在互动行销领域创造最大价值而不懈努力!</p>
                 </div>
               </div>
 
 <!--          <div class="font-banner container-fuild text-center">团队介绍</div>-->
           <div class="container text-center">
-            <h3>团队介绍</h3>
-            <p style="color:#b2b2b2">Team introduction</p>
+            <h3>团队核心人员介绍</h3>
+            <p style="color:#b2b2b2">Introduction To Core Team Members</p>
           </div>
           <div class="row CompanyIntroduction-container">
             <div class="col-xs-12 col-sm-12 col-md-6">
@@ -41,7 +41,7 @@
               <p class=".text-justify">毕业于中国地质大学，曾担任网易考拉服务器开发组长，熟悉电商领域的软件开发，对高并发的系统设计有丰富的经验，深入了解rabbitMq等消息中间件，擅长各种复杂业务的系统设计，对复杂系统的任务拆解经验丰富</p><p class=".text-justify">熟悉各种业界前沿技术，时刻保持对新技术的追求，充分发挥各种新技术对系统的性能提升</p>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-6 wow zoomIn">
-              <img class="img-responsive center-block photo-size" src="@/assets/img/photo_nan.jpg">
+              <img class="img-responsive center-block photo-size" src="@/assets/img/photo_nan_2.png">
             </div>
 
           </div>

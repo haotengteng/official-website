@@ -36,12 +36,14 @@ export default {
                     title: '软件定制开发',
                     eng_title: 'Customize App',
                     img: require('@/assets/img/service1.jpg')
-                },{
+                },
+                {
                     id: 'section-2',
-                    title: 'IT外包服务',
-                    eng_title: 'Outsourcing',
+                    title: '系统二次开发',
+                    eng_title: 'Two Development',
                     img: require('@/assets/img/service2.jpg')
-                },{
+                },
+                {
                     id: 'section-3',
                     title: '网上商城建设',
                     eng_title: 'eCommerce Site',

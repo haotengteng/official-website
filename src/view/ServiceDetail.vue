@@ -40,10 +40,10 @@ export default {
           id: "section-1",
           title: "软件定制开发"
         },
-        {
-          id: "section-2",
-          title: "IT外包服务"
-        },
+        // {
+        //   id: "section-2",
+        //   title: "IT外包服务"
+        // },
         {
           id: "section-3",
           title: "网上商城建设"
@@ -63,15 +63,17 @@ export default {
               "企业内部管理系统B/S架构、Web网页版系统、C/S架构客户端软件、HTML5+CSS3响应式布局、MySQL+Java架构</p>" +
               "<h3>安卓APP & 苹果APP</h3><p>安卓Android、苹果iOS两大平台，以及可针对pad和触摸屏开发。安卓Android APP\n" +
               "苹果iOS APP原生代码 & H5方式开发、电商类APP、社交类APP、内部管理、设备管理APP</p>"
-        },
-        {
-          id: "section-2",
-          title: "IT外包服务",
-          eng_title: "Outsourcing",
-          content:
-            "<h3>整体IT外包</h3><p>选择整体外包服务，从此免去招聘、培训和管理专职IT技术人员的烦恼，我们负责您公司IT系统的运维、规划和采购等工作，为您提供全方位一站式的IT技术服务。\n" +
-              "配套专职现场技术人员、配套专职IT顾问、配套专职客服专员、配套定制服务报告、加强病毒防范</p>"
-        },
+        }
+        // ,
+        // {
+        //   id: "section-2",
+        //   title: "IT外包服务",
+        //   eng_title: "Outsourcing",
+        //   content:
+        //     "<h3>整体IT外包</h3><p>选择整体外包服务，从此免去招聘、培训和管理专职IT技术人员的烦恼，我们负责您公司IT系统的运维、规划和采购等工作，为您提供全方位一站式的IT技术服务。\n" +
+        //       "配套专职现场技术人员、配套专职IT顾问、配套专职客服专员、配套定制服务报告、加强病毒防范</p>"
+        // }
+        ,
         {
           id: "section-3",
           title: "网上商城建设",
