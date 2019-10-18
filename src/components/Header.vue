@@ -12,6 +12,7 @@
         <div class="shejiao pull-right">
           <span class="glyphicon glyphicon-hand-right"></span>赶快联系我们吧！
           <span class="glyphicon glyphicon-hand-left"></span>
+          <a id="language" class="btn btn-default btn-xs" href="http://localhost:8888/#/service" role="button" >EN</a>
         </div>
       </div>
     </div>
@@ -347,6 +348,11 @@ export default {
   /* 导航栏 每个导航下面的 a 链接的右侧小三角 */
   #header .header-nav .header-nav-wrapper > li > a > span {
     font-size: 10px;
+  }
+  #language{
+    height: 50px;
+    width: 50px;
+    background: #474747;
   }
 }
 </style>

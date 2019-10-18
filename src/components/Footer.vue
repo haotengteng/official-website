@@ -5,13 +5,12 @@
     <!--</div>-->
     <p class="title">中盛软件技术有限公司</p>
     <p class="address_tel_fax">
-      <span>地址：公司地址公司地址公司地址公司地址</span>
-      <span>Tel：888-888-888</span>
-      <span>Fax：8888-88888888</span>
+      <span>地址：佛山市禅城区季华西路绿岛湖行政服务中心B座1104室</span>
+      <span>电话：0757-82501253</span>
+
     </p>
     <p class="email_wx">
-      <span>邮箱：haot_mail@163.com</span>
-      <span>公司微信号：lalalalala</span>
+      <span>邮箱：sale@zhongshengsoft.com</span>
     </p>
     <p class="copy">Copyright &copy; 2019 - 2020 中盛软件技术有限公司</p>
   </div>
