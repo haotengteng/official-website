@@ -12,7 +12,7 @@
         <div class="shejiao pull-right">
           <span class="glyphicon glyphicon-hand-right"></span>赶快联系我们吧！
           <span class="glyphicon glyphicon-hand-left"></span>
-          <a id="language" class="btn btn-default btn-xs" href="http://localhost:8888/#/service" role="button" >EN</a>
+          language: <a id="language" class="btn btn-default btn-xs" href="http://www.zhongshengsoft.com/en/" role="button" > EN</a>
         </div>
       </div>
     </div>
