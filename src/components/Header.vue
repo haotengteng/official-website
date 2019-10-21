@@ -98,11 +98,11 @@ export default {
           path: "/software",
           children: [
             {
-              name: "某某管理系统",
+              name: "迪卡侬官网商城",
               path: "/software/smartTown"
             },
             {
-              name: "某某管理系统",
+              name: "澳洲农场农耕服务系统",
               path: "/software/bigData"
             }
           ]

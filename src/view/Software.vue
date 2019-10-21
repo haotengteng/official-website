@@ -24,10 +24,10 @@ export default {
             softwareList: [
                 {
                     path: '/software/smartTown',
-                    name: '某某管理系统'
+                    name: '迪卡侬官网商城'
                 },{
                     path: '/software/bigData',
-                    name: '某某管理系统'
+                    name: '澳洲某农场农耕服务系统'
                 }
             ]
         }

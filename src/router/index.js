@@ -39,7 +39,7 @@ export default new Router({
               name: 'software',
               component: resolve => require(['@/view/Software_smartTown'], resolve),
               meta: {
-                title: '软件产品丨智能小镇管理系统'
+                title: '软件产品丨迪卡侬官网商城'
               }
             },
             {
